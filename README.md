@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/0Amruth0/0Amruth0/issues)**
+💬 Ask me about anything.... [here](https://github.com/0Amruth0/0Amruth0/issues)**
 
 
 
